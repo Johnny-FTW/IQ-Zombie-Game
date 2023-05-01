@@ -8,4 +8,4 @@ Screenshots:
 
 ![image](https://github.com/Johnny-FTW/IQ-Zombie-Game/blob/main/screens/iq1.png)
 <br>
-![image](https://raw.githubusercontent.com/Johnny-FTW/IQ-Zombie-Game/screens/iq2.png)
+![image](https://github.com/Johnny-FTW/IQ-Zombie-Game/blob/main/screens/iq2.png)
